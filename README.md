@@ -1,5 +1,5 @@
 
-SnapPix is a C# with SQL Server & RDLC Report Project.
+**SnapPix is a C# with SQL Server & RDLC Report Project.**
 
 ⚙️ **Tech Stack:**
 C#,
